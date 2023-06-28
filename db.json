@@ -73,234 +73,46 @@
       "ID_DEPARTAMENTO": "09"
     },
     {
-      "ID": 2,
+      "ID": 3,
       "DESCRIPCION": "ACOMAYO",
       "ID_DEPARTAMENTO": "08"
     },
     {
-      "ID": 2,
+      "ID": 4,
       "DESCRIPCION": "AIJA",
       "ID_DEPARTAMENTO": "02"
     },
     {
-      "ID": 2,
+      "ID": 5,
       "DESCRIPCION": "ALTO AMAZONAS",
       "ID_DEPARTAMENTO": "16"
     },
     {
-      "ID": 2,
+      "ID": 6,
       "DESCRIPCION": "AMBO",
       "ID_DEPARTAMENTO": "10"
     },
     {
-      "ID": 2,
+      "ID": 7,
       "DESCRIPCION": "ANDAHUAYLAS",
       "ID_DEPARTAMENTO": "03"
     },
     {
-      "ID": 3,
+      "ID": 8,
       "DESCRIPCION": "ANGARAES",
       "ID_DEPARTAMENTO": "09"
     },
     {
-      "ID": 3,
+      "ID": 9,
       "DESCRIPCION": "ANTA",
       "ID_DEPARTAMENTO": "08"
     },
     {
-      "ID": 3,
+      "ID": 10,
       "DESCRIPCION": "ANTABAMBA",
       "ID_DEPARTAMENTO": "03"
-    },
-    {
-      "ID": 3,
-      "DESCRIPCION": "ANTONIO RAIMONDI",
-      "ID_DEPARTAMENTO": "02"
-    },
-    {
-      "ID": 1,
-      "DESCRIPCION": "AREQUIPA",
-      "ID_DEPARTAMENTO": "04"
-    },
-    {
-      "ID": 8,
-      "DESCRIPCION": "LA UNION",
-      "ID_DEPARTAMENTO": "04"
-    },
-    {
-      "ID": 5,
-      "DESCRIPCION": "LAMAS",
-      "ID_DEPARTAMENTO": "22"
-    },
-    {
-      "ID": 3,
-      "DESCRIPCION": "LAMBAYEQUE",
-      "ID_DEPARTAMENTO": "14"
-    },
-    {
-      "ID": 7,
-      "DESCRIPCION": "LAMPA",
-      "ID_DEPARTAMENTO": "21"
-    },
-    {
-      "ID": 10,
-      "DESCRIPCION": "LAURICOCHA",
-      "ID_DEPARTAMENTO": "10"
-    },
-    {
-      "ID": 6,
-      "DESCRIPCION": "LEONCIO PRADO",
-      "ID_DEPARTAMENTO": "10"
-    },
-    {
-      "ID": 1,
-      "DESCRIPCION": "LIMA",
-      "ID_DEPARTAMENTO": "15"
-    },
-    {
-      "ID": 3,
-      "DESCRIPCION": "LORETO",
-      "ID_DEPARTAMENTO": "16"
-    },{
-      "ID": 7,
-      "DESCRIPCION": "MARAÑON",
-      "ID_DEPARTAMENTO": "10"
-    },
-    {
-      "ID": 6,
-      "DESCRIPCION": "MARISCAL CACERES",
-      "ID_DEPARTAMENTO": "22"
-    },
-    {
-      "ID": 13,
-      "DESCRIPCION": "MARISCAL LUZURIAGA",
-      "ID_DEPARTAMENTO": "02"
-    },
-    {
-      "ID": 1,
-      "DESCRIPCION": "MARISCAL NIETO",
-      "ID_DEPARTAMENTO": "18"
-    },
-    {
-      "ID": 4,
-      "DESCRIPCION": "MARISCAL RAMON CASTILLA",
-      "ID_DEPARTAMENTO": "16"
-    },
-    {
-      "ID": 1,
-      "DESCRIPCION": "MAYNAS",
-      "ID_DEPARTAMENTO": "16"
-    },
-    {
-      "ID": 8,
-      "DESCRIPCION": "MELGAR",
-      "ID_DEPARTAMENTO": "21"
-    },
-    {
-      "ID": 9,
-      "DESCRIPCION": "MOHO",
-      "ID_DEPARTAMENTO": "21"
-    },
-    {
-      "ID": 4,
-      "DESCRIPCION": "MORROPON",
-      "ID_DEPARTAMENTO": "20"
-    },
-    {
-      "ID": 1,
-      "DESCRIPCION": "MOYOBAMBA",
-      "ID_DEPARTAMENTO": "22"
-    },
-    {
-      "ID": 3,
-      "DESCRIPCION": "NASCA",
-      "ID_DEPARTAMENTO": "11"
-    },
-    {
-      "ID": 14,
-      "DESCRIPCION": "OCROS",
-      "ID_DEPARTAMENTO": "02"
-    },
-    {
-      "ID": 6,
-      "DESCRIPCION": "OTUZCO",
-      "ID_DEPARTAMENTO": "13"
-    },
-    {
-      "ID": 3,
-      "DESCRIPCION": "OXAPAMPA",
-      "ID_DEPARTAMENTO": "19"
-    },
-    {
-      "ID": 9,
-      "DESCRIPCION": "OYON",
-      "ID_DEPARTAMENTO": "15"
-    },
-    {
-      "ID": 7,
-      "DESCRIPCION": "PACASMAYO",
-      "ID_DEPARTAMENTO": "13"
-    },
-    {
-      "ID": 5,
-      "DESCRIPCION": "PAITA",
-      "ID_DEPARTAMENTO": "20"
-    },
-    {
-      "ID": 15,
-      "DESCRIPCION": "PALLASCA",
-      "ID_DEPARTAMENTO": "02"
-    },
-    {
-      "ID": 4,
-      "DESCRIPCION": "PALPA",
-      "ID_DEPARTAMENTO": "11"
-    },
-    {
-      "ID": 7,
-      "DESCRIPCION": "PARINACOCHAS",
-      "ID_DEPARTAMENTO": "05"
-    },
-    {
-      "ID": 10,
-      "DESCRIPCION": "PARURO",
-      "ID_DEPARTAMENTO": "08"
-    },
-    {
-      "ID": 1,
-      "DESCRIPCION": "PASCO",
-      "ID_DEPARTAMENTO": "19"
-    },
-    {
-      "ID": 8,
-      "DESCRIPCION": "PATAZ",
-      "ID_DEPARTAMENTO": "13"
-    },
-    {
-      "ID": 8,
-      "DESCRIPCION": "PAUCAR DEL SARA SARA",
-      "ID_DEPARTAMENTO": "05"
-    },
-    {
-      "ID": 11,
-      "DESCRIPCION": "PAUCARTAMBO",
-      "ID_DEPARTAMENTO": "08"
-    },
-    {
-      "ID": 7,
-      "DESCRIPCION": "PICOTA",
-      "ID_DEPARTAMENTO": "22"
-    },
-    {
-      "ID": 5,
-      "DESCRIPCION": "PISCO",
-      "ID_DEPARTAMENTO": "11"
-    },
-    {
-      "ID": 1,
-      "DESCRIPCION": "PIURA",
-      "ID_DEPARTAMENTO": "20"
     }
+    
   ],
   "centro_educativo":[
     {
