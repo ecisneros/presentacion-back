@@ -76,41 +76,6 @@
       "ID": 3,
       "DESCRIPCION": "ACOMAYO",
       "ID_DEPARTAMENTO": "08"
-    },
-    {
-      "ID": 4,
-      "DESCRIPCION": "AIJA",
-      "ID_DEPARTAMENTO": "02"
-    },
-    {
-      "ID": 5,
-      "DESCRIPCION": "ALTO AMAZONAS",
-      "ID_DEPARTAMENTO": "16"
-    },
-    {
-      "ID": 6,
-      "DESCRIPCION": "AMBO",
-      "ID_DEPARTAMENTO": "10"
-    },
-    {
-      "ID": 7,
-      "DESCRIPCION": "ANDAHUAYLAS",
-      "ID_DEPARTAMENTO": "03"
-    },
-    {
-      "ID": 8,
-      "DESCRIPCION": "ANGARAES",
-      "ID_DEPARTAMENTO": "09"
-    },
-    {
-      "ID": 9,
-      "DESCRIPCION": "ANTA",
-      "ID_DEPARTAMENTO": "08"
-    },
-    {
-      "ID": 10,
-      "DESCRIPCION": "ANTABAMBA",
-      "ID_DEPARTAMENTO": "03"
     }
     
   ],
